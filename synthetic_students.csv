@@ -1,0 +1,181 @@
+student_id,last_name,first_name,gender,race_ethnicity,english_learner,economically_disadvantaged,special_education,grade8_overall_gpa,grade8_math_gpa,grade8_science_gpa,grade8_ela_gpa,grade8_attendance_pct,grade9_any_dfi,sending_school,receiving_school
+SMS1001,Davis,Yasmin,Male,Hispanic/Latino,No,No,No,2.55,3.03,2.18,1.28,87.6,1,Shermer Middle School,Ridgemont High School
+SMS1002,Taylor,Amara,Female,Hispanic/Latino,No,No,No,4.0,2.47,2.93,3.64,94.5,0,Shermer Middle School,Ridgemont High School
+SMS1003,Harris,Jorge,Male,Hispanic/Latino,No,Yes,No,2.41,2.72,0.69,1.85,96.9,0,Shermer Middle School,Ridgemont High School
+SMS1004,Diaz,Isabella,Female,Hispanic/Latino,Yes,No,No,1.99,1.87,2.17,3.38,93.2,1,Shermer Middle School,Ridgemont High School
+SMS1005,Santos,Daniel,Male,White,Yes,Yes,No,1.63,2.44,2.34,1.18,92.3,1,Shermer Middle School,Ridgemont High School
+SMS1006,Chen,Sandra,Female,Hispanic/Latino,No,Yes,No,1.45,2.99,1.43,2.12,91.4,0,Shermer Middle School,Ridgemont High School
+SMS1007,Miller,Steven,Male,Hispanic/Latino,No,Yes,No,3.22,1.03,1.41,2.11,99.6,1,Shermer Middle School,Ridgemont High School
+SMS1008,Anderson,Amelia,Female,Hispanic/Latino,No,No,No,3.12,2.67,2.27,3.3,90.6,0,Shermer Middle School,Ridgemont High School
+SMS1009,Gonzalez,Christian,Male,Asian,No,Yes,No,2.71,3.18,1.18,2.71,87.8,1,Shermer Middle School,Ridgemont High School
+SMS1010,Perez,Jada,Male,Asian,No,Yes,No,1.78,2.0,3.97,2.7,89.7,1,Shermer Middle School,Ridgemont High School
+SMS1011,Anderson,Thomas,Female,White,No,No,No,2.51,2.98,3.51,2.13,92.2,0,Shermer Middle School,Ridgemont High School
+SMS1012,Gomez,Sara,Male,Two or More Races,No,Yes,No,3.18,2.19,3.65,2.79,97.2,0,Shermer Middle School,Ridgemont High School
+SMS1013,Mendoza,Sandra,Male,White,No,No,No,2.06,2.29,3.47,1.46,87.2,1,Shermer Middle School,Ridgemont High School
+SMS1014,Morales,Isabella,Male,Hispanic/Latino,No,Yes,No,1.81,3.48,1.89,2.18,93.4,0,Shermer Middle School,Ridgemont High School
+SMS1015,Jackson,Steven,Male,Asian,No,Yes,No,2.67,1.44,3.08,2.1,100.0,0,Shermer Middle School,Ridgemont High School
+SMS1016,Thomas,Aaliyah,Female,White,No,Yes,No,2.19,2.9,2.39,2.53,96.4,0,Shermer Middle School,Ridgemont High School
+SMS1017,Silva,Eric,Male,White,No,Yes,No,2.16,2.38,2.51,2.5,97.7,0,Shermer Middle School,Ridgemont High School
+SMS1018,Lewis,Monica,Non-binary,African American,No,Yes,No,2.6,2.44,2.38,1.88,100.0,0,Shermer Middle School,Ridgemont High School
+SMS1019,Fernandez,Jorge,Male,African American,No,Yes,No,2.28,2.01,2.0,1.84,93.4,1,Shermer Middle School,Ridgemont High School
+SMS1020,Thomas,Hector,Male,Hispanic/Latino,No,No,No,1.84,2.5,2.26,2.48,90.8,0,Shermer Middle School,Ridgemont High School
+SMS1021,Cruz,Lena,Male,White,No,Yes,No,2.7,2.48,2.65,3.98,94.8,1,Shermer Middle School,Ridgemont High School
+SMS1022,Martinez,Christian,Male,Two or More Races,No,No,No,2.49,1.96,0.66,3.0,98.9,1,Shermer Middle School,Ridgemont High School
+SMS1023,Lopez,Claudia,Male,Two or More Races,No,No,No,3.09,2.49,2.51,1.92,94.1,0,Shermer Middle School,Ridgemont High School
+SMS1024,Rodriguez,Leonardo,Female,Asian,No,Yes,Yes,2.58,3.07,2.47,2.58,95.4,0,Shermer Middle School,Ridgemont High School
+SMS1025,Vasquez,Jennifer,Female,Hispanic/Latino,No,Yes,No,3.08,2.46,3.61,1.01,96.5,0,Shermer Middle School,Ridgemont High School
+SMS1026,Suarez,Andre,Male,Hispanic/Latino,No,No,No,2.44,2.96,2.26,2.68,96.7,1,Shermer Middle School,Ridgemont High School
+SMS1027,Ramos,Oscar,Female,Asian,No,Yes,No,1.97,1.71,3.05,2.7,99.3,0,Shermer Middle School,Ridgemont High School
+SMS1028,Martinez,Diana,Female,Two or More Races,Yes,No,No,2.1,1.95,1.17,2.45,99.5,1,Shermer Middle School,Ridgemont High School
+SMS1029,Reyes,Carmen,Male,White,Yes,Yes,No,1.89,1.35,2.0,2.49,100.0,0,Shermer Middle School,Ridgemont High School
+SMS1030,Williams,Juan,Female,White,Yes,Yes,No,2.15,2.05,2.44,2.75,94.1,0,Shermer Middle School,Ridgemont High School
+SMS1031,Romero,Xiomara,Male,Hispanic/Latino,Yes,Yes,No,1.07,2.23,1.96,1.94,89.9,0,Shermer Middle School,Ridgemont High School
+SMS1032,Rivera,Luis,Male,Asian,Yes,No,No,2.72,3.6,2.44,3.86,98.8,0,Shermer Middle School,Ridgemont High School
+SMS1033,Smith,Gloria,Female,White,No,Yes,No,1.31,2.77,2.01,3.46,98.8,0,Shermer Middle School,Ridgemont High School
+SMS1034,Bautista,Brianna,Female,African American,No,Yes,No,2.22,1.84,1.85,1.67,100.0,1,Shermer Middle School,Ridgemont High School
+SMS1035,Torres,Jada,Male,Two or More Races,No,Yes,No,2.67,1.7,3.03,3.31,99.4,0,Shermer Middle School,Ridgemont High School
+SMS1036,Chen,Juan,Male,Two or More Races,No,Yes,No,4.0,3.23,1.79,1.25,96.3,0,Shermer Middle School,Ridgemont High School
+SMS1037,Zamora,Jada,Female,White,No,Yes,No,0.52,3.01,2.98,2.7,88.9,0,Shermer Middle School,Ridgemont High School
+SMS1038,Martinez,Claudia,Male,White,Yes,No,No,2.43,2.51,1.61,2.94,95.4,1,Shermer Middle School,Ridgemont High School
+SMS1039,Moreno,Jorge,Male,Asian,No,Yes,No,2.27,2.37,2.79,1.78,93.1,0,Shermer Middle School,Ridgemont High School
+SMS1040,Williams,Yasmin,Female,Hispanic/Latino,Yes,No,No,2.02,2.52,3.15,0.97,100.0,0,Shermer Middle School,Ridgemont High School
+SMS1041,Flores,Luis,Female,White,No,No,No,2.57,3.41,2.58,2.64,86.8,0,Shermer Middle School,Ridgemont High School
+SMS1042,Lopez,Luna,Female,Hispanic/Latino,No,No,No,2.12,1.83,2.46,2.9,98.9,0,Shermer Middle School,Ridgemont High School
+SMS1043,Sanchez,Hannah,Female,White,No,Yes,No,2.09,2.51,1.45,1.69,97.9,1,Shermer Middle School,Ridgemont High School
+SMS1044,Silva,Jessica,Male,White,No,Yes,Yes,2.97,0.91,3.11,3.3,91.0,0,Shermer Middle School,Ridgemont High School
+SMS1045,Castro,Zoe,Female,White,No,Yes,Yes,2.47,3.02,3.31,3.15,86.2,0,Shermer Middle School,Ridgemont High School
+SMS1046,Ruiz,Thomas,Female,Two or More Races,No,No,No,3.17,2.83,2.85,2.43,98.5,0,Shermer Middle School,Ridgemont High School
+SMS1047,Ramos,Fatima,Male,Hispanic/Latino,Yes,Yes,Yes,1.46,3.06,3.13,2.95,90.3,1,Shermer Middle School,Ridgemont High School
+SMS1048,Flores,Jasmine,Male,White,No,No,No,3.71,2.11,1.93,1.71,91.0,1,Shermer Middle School,Ridgemont High School
+SMS1049,Martinez,Pablo,Non-binary,Hispanic/Latino,No,Yes,No,2.88,2.2,2.37,1.85,99.3,0,Shermer Middle School,Ridgemont High School
+SMS1050,Ruiz,Jessica,Male,Asian,No,Yes,No,3.08,2.95,2.52,3.7,96.4,0,Shermer Middle School,Ridgemont High School
+SMS1051,Guzman,Sara,Male,Two or More Races,No,No,No,2.48,1.63,2.08,3.73,95.5,0,Shermer Middle School,Ridgemont High School
+SMS1052,Williams,Kevin,Female,White,No,No,No,3.08,4.0,2.56,3.58,96.8,0,Shermer Middle School,Ridgemont High School
+SMS1053,Guzman,Anthony,Male,White,No,Yes,No,2.38,2.65,2.07,2.56,93.3,1,Shermer Middle School,Ridgemont High School
+SMS1054,Vasquez,Amelia,Male,White,No,Yes,No,2.88,2.54,3.2,1.37,97.4,1,Shermer Middle School,Ridgemont High School
+SMS1055,Mendez,Karen,Male,Asian,No,No,No,3.7,2.39,3.41,1.17,92.2,0,Shermer Middle School,Ridgemont High School
+SMS1056,Castro,Jessica,Female,Hispanic/Latino,No,No,No,2.87,1.85,2.13,2.0,100.0,0,Shermer Middle School,Ridgemont High School
+SMS1057,Rivera,Hector,Male,White,Yes,No,No,2.8,3.13,2.95,1.92,88.1,1,Shermer Middle School,Ridgemont High School
+SMS1058,Gonzalez,Karen,Female,White,No,Yes,No,2.14,1.05,2.72,2.13,87.9,1,Shermer Middle School,Ridgemont High School
+SMS1059,Mendez,Ramon,Female,White,No,Yes,Yes,2.35,2.49,1.5,2.99,89.3,1,Shermer Middle School,Ridgemont High School
+SMS1060,Moreno,Zoe,Female,Two or More Races,No,No,No,3.23,3.36,2.69,3.26,91.4,0,Shermer Middle School,Ridgemont High School
+SMS1061,Hernandez,Emilio,Female,African American,Yes,Yes,No,1.89,2.12,2.42,2.52,95.0,1,Shermer Middle School,Ridgemont High School
+SMS1062,Harris,Elena,Non-binary,Hispanic/Latino,Yes,No,No,3.36,2.15,2.28,2.26,91.5,0,Shermer Middle School,Ridgemont High School
+SMS1063,Ramos,Sara,Male,Hispanic/Latino,No,Yes,No,2.83,0.0,3.07,2.74,87.7,0,Shermer Middle School,Ridgemont High School
+SMS1064,Taylor,Jennifer,Female,White,No,No,No,3.19,3.82,2.66,3.43,96.2,1,Shermer Middle School,Ridgemont High School
+SMS1065,Miller,Stephanie,Female,Hispanic/Latino,No,No,Yes,2.22,1.54,2.8,2.13,100.0,0,Shermer Middle School,Ridgemont High School
+SMS1066,Mendez,Stephanie,Female,Hispanic/Latino,No,No,No,2.6,2.04,1.74,2.9,95.9,0,Shermer Middle School,Ridgemont High School
+SMS1067,Guzman,Luis,Male,Hispanic/Latino,No,No,No,1.61,3.92,2.73,2.22,90.3,0,Shermer Middle School,Ridgemont High School
+SMS1068,Perez,Elena,Male,African American,No,Yes,No,2.48,1.33,2.96,2.2,99.5,0,Shermer Middle School,Ridgemont High School
+SMS1069,Chen,Ramon,Female,White,Yes,Yes,No,3.31,1.31,2.71,2.58,89.1,0,Shermer Middle School,Ridgemont High School
+SMS1070,Zamora,Angela,Female,White,No,No,No,1.91,2.61,1.96,1.52,95.9,1,Shermer Middle School,Ridgemont High School
+SMS1071,Fernandez,David,Male,Hispanic/Latino,No,No,No,2.4,2.09,2.66,1.2,91.4,0,Shermer Middle School,Ridgemont High School
+SMS1072,Flores,Xiomara,Male,Hispanic/Latino,No,No,Yes,1.8,4.0,3.17,3.39,88.3,1,Shermer Middle School,Ridgemont High School
+SMS1073,Rodriguez,Monica,Non-binary,White,Yes,No,No,3.59,2.07,1.72,1.99,91.0,1,Shermer Middle School,Ridgemont High School
+SMS1074,Martinez,Brianna,Female,African American,No,No,No,1.04,3.13,2.73,1.97,89.8,1,Shermer Middle School,Ridgemont High School
+SMS1075,Rodriguez,Marco,Female,Hispanic/Latino,No,Yes,No,1.9,1.22,2.99,2.15,89.5,1,Shermer Middle School,Ridgemont High School
+SMS1076,Ramirez,Pablo,Male,Two or More Races,No,Yes,No,2.68,4.0,2.62,2.88,90.3,0,Shermer Middle School,Ridgemont High School
+SMS1077,Reyes,Jason,Male,Hispanic/Latino,No,No,No,4.0,1.5,2.3,2.49,94.7,0,Shermer Middle School,Ridgemont High School
+SMS1078,Santos,Adrian,Male,Hispanic/Latino,No,Yes,No,2.68,1.22,2.0,2.17,91.1,1,Shermer Middle School,Ridgemont High School
+SMS1079,Santos,David,Male,American Indian,No,Yes,No,0.74,2.66,2.76,2.07,82.3,1,Shermer Middle School,Ridgemont High School
+SMS1080,Thomas,Samuel,Female,African American,No,Yes,Yes,1.58,1.89,1.44,2.06,92.3,1,Shermer Middle School,Ridgemont High School
+SMS1081,Torres,Jessica,Female,White,Yes,No,Yes,2.36,3.59,3.87,1.92,94.9,1,Shermer Middle School,Ridgemont High School
+SMS1082,Lewis,Zoe,Female,African American,Yes,Yes,No,1.59,3.51,3.06,1.71,87.6,1,Shermer Middle School,Ridgemont High School
+SMS1083,Johnson,David,Male,Hispanic/Latino,No,Yes,No,3.2,3.73,1.59,0.7,92.2,0,Shermer Middle School,Ridgemont High School
+SMS1084,Flores,Nathan,Female,White,No,No,No,2.48,2.72,3.9,3.28,99.8,1,Shermer Middle School,Ridgemont High School
+SMS1085,Alvarez,Oscar,Non-binary,White,No,Yes,No,2.71,2.43,3.26,3.37,85.0,0,Shermer Middle School,Ridgemont High School
+SMS1086,Perez,Jennifer,Male,White,Yes,Yes,Yes,2.87,2.36,2.73,3.04,88.8,1,Shermer Middle School,Ridgemont High School
+SMS1087,Perez,Felix,Non-binary,Asian,No,Yes,No,2.65,2.68,3.38,1.75,94.0,0,Shermer Middle School,Ridgemont High School
+SMS1088,Zamora,Daniel,Male,White,No,No,No,2.6,3.85,2.48,2.38,98.1,1,Shermer Middle School,Ridgemont High School
+SMS1089,Jones,Xiomara,Female,Hispanic/Latino,Yes,Yes,No,2.2,3.33,3.47,1.13,91.9,1,Shermer Middle School,Ridgemont High School
+SMS1090,Perez,Yasmin,Female,African American,No,Yes,Yes,2.23,3.21,2.38,2.16,94.0,1,Shermer Middle School,Ridgemont High School
+SMS1091,Gomez,Thomas,Female,African American,No,Yes,Yes,0.55,2.98,2.07,1.98,87.1,1,Shermer Middle School,Ridgemont High School
+SMS1092,Lozano,Emma,Male,Pacific Islander,No,Yes,No,1.91,1.59,2.36,2.34,93.7,1,Shermer Middle School,Ridgemont High School
+SMS1093,Ramos,Eric,Male,Hispanic/Latino,No,No,No,3.63,2.18,2.22,2.2,91.0,0,Shermer Middle School,Ridgemont High School
+SMS1094,Alvarez,Ryan,Male,Hispanic/Latino,No,No,No,2.57,2.45,1.74,4.0,96.8,0,Shermer Middle School,Ridgemont High School
+SMS1095,Lee,Talia,Male,African American,Yes,Yes,No,2.31,2.79,2.55,1.75,87.4,0,Shermer Middle School,Ridgemont High School
+SMS1096,Anderson,Rafael,Male,African American,No,Yes,No,3.09,3.35,1.77,3.02,94.2,0,Shermer Middle School,Ridgemont High School
+SMS1097,Lozano,David,Female,White,No,No,No,2.98,1.84,2.08,1.37,100.0,0,Shermer Middle School,Ridgemont High School
+SMS1098,Harris,Julian,Male,Hispanic/Latino,No,No,No,2.7,1.69,3.0,0.93,95.1,1,Shermer Middle School,Ridgemont High School
+SMS1099,Harris,Anthony,Female,Hispanic/Latino,No,No,No,2.87,3.0,2.8,1.76,99.5,0,Shermer Middle School,Ridgemont High School
+SMS1100,Chen,Serena,Female,Pacific Islander,No,Yes,No,2.27,2.86,2.32,3.35,92.1,0,Shermer Middle School,Ridgemont High School
+SMS1101,Suarez,Carmen,Female,White,Yes,Yes,No,2.96,1.22,3.08,2.24,99.1,0,Shermer Middle School,Ridgemont High School
+SMS1102,Vega,Rafael,Female,White,Yes,No,No,2.92,4.0,3.96,3.1,98.0,0,Shermer Middle School,Ridgemont High School
+SMS1103,Thomas,Brianna,Female,Hispanic/Latino,No,No,No,3.43,2.77,2.08,2.39,85.2,1,Shermer Middle School,Ridgemont High School
+SMS1104,Torres,Samuel,Female,White,Yes,Yes,Yes,3.07,2.18,1.92,2.86,90.5,1,Shermer Middle School,Ridgemont High School
+SMS1105,Diaz,Diego,Male,Hispanic/Latino,No,No,No,2.11,3.07,2.81,0.83,90.1,0,Shermer Middle School,Ridgemont High School
+SMS1106,Reyes,Patricia,Female,Hispanic/Latino,No,No,No,1.62,3.7,2.67,2.64,95.0,1,Shermer Middle School,Ridgemont High School
+SMS1107,Hernandez,Fatima,Female,White,No,No,Yes,2.71,2.26,2.33,2.74,100.0,0,Shermer Middle School,Ridgemont High School
+SMS1108,Zamora,Ryan,Female,Hispanic/Latino,No,Yes,No,2.4,2.87,0.66,1.98,97.3,1,Shermer Middle School,Ridgemont High School
+SMS1109,Miller,Thomas,Male,White,No,Yes,No,3.24,2.23,2.04,2.44,95.8,1,Shermer Middle School,Ridgemont High School
+SMS1110,Ramos,Hector,Female,Hispanic/Latino,Yes,No,No,2.63,1.63,1.86,3.24,92.1,1,Shermer Middle School,Ridgemont High School
+SMS1111,Smith,Grace,Female,Hispanic/Latino,No,Yes,No,0.93,2.03,2.3,3.55,92.8,1,Shermer Middle School,Ridgemont High School
+SMS1112,Mendez,Julian,Male,Hispanic/Latino,No,No,No,2.09,2.6,1.88,1.98,90.7,1,Shermer Middle School,Ridgemont High School
+SMS1113,Morales,Luna,Female,African American,No,Yes,No,3.05,2.34,2.07,3.45,90.7,1,Shermer Middle School,Ridgemont High School
+SMS1114,Morales,Rosa,Female,Hispanic/Latino,No,Yes,No,1.96,2.9,1.99,2.42,93.3,1,Shermer Middle School,Ridgemont High School
+SMS1115,Harris,Diana,Female,Hispanic/Latino,Yes,No,No,1.01,2.26,2.18,2.31,88.9,0,Shermer Middle School,Ridgemont High School
+SMS1116,Castro,Isabella,Female,White,No,Yes,No,0.35,2.65,2.46,3.09,100.0,0,Shermer Middle School,Ridgemont High School
+SMS1117,Anderson,Lena,Female,Hispanic/Latino,Yes,Yes,No,1.76,1.97,2.23,2.19,100.0,1,Shermer Middle School,Ridgemont High School
+SMS1118,Reyes,Steven,Female,African American,Yes,No,No,2.43,2.43,2.05,1.4,99.7,0,Shermer Middle School,Ridgemont High School
+SMS1119,Robinson,Jada,Male,Hispanic/Latino,No,No,No,3.12,3.98,2.59,3.56,93.8,1,Shermer Middle School,Ridgemont High School
+SMS1120,Alvarez,Isabella,Female,Hispanic/Latino,Yes,Yes,No,1.24,1.41,2.22,2.53,94.5,1,Shermer Middle School,Ridgemont High School
+SMS1121,Smith,Carlos,Male,Hispanic/Latino,No,Yes,No,2.39,2.12,3.33,1.08,93.6,1,Shermer Middle School,Ridgemont High School
+SMS1122,Brown,Xiomara,Female,Hispanic/Latino,Yes,Yes,No,2.39,3.09,2.26,3.57,85.7,1,Shermer Middle School,Ridgemont High School
+SMS1123,Castro,Jada,Male,Hispanic/Latino,No,Yes,No,1.32,1.82,2.08,2.64,89.5,1,Shermer Middle School,Ridgemont High School
+SMS1124,Zamora,Amelia,Male,African American,No,No,No,2.3,2.0,3.81,2.8,93.0,0,Shermer Middle School,Ridgemont High School
+SMS1125,Castro,Kira,Female,Hispanic/Latino,No,No,Yes,2.1,2.21,1.5,0.76,99.0,0,Shermer Middle School,Ridgemont High School
+SMS1126,Harris,Ricardo,Male,Hispanic/Latino,No,No,No,2.47,1.7,2.25,4.0,95.0,1,Shermer Middle School,Ridgemont High School
+SMS1127,Sanchez,Jorge,Male,Hispanic/Latino,No,No,No,2.31,3.14,2.56,2.15,95.4,0,Shermer Middle School,Ridgemont High School
+SMS1128,Gonzalez,Rafael,Female,Asian,No,No,No,1.35,2.67,2.66,2.09,94.7,0,Shermer Middle School,Ridgemont High School
+SMS1129,Diaz,Sandra,Female,Hispanic/Latino,No,Yes,Yes,2.65,1.87,1.85,1.82,99.5,0,Shermer Middle School,Ridgemont High School
+SMS1130,Rivera,Sofia,Male,Hispanic/Latino,No,Yes,No,2.8,2.65,2.11,2.52,97.8,0,Shermer Middle School,Ridgemont High School
+SMS1131,Harris,Patricia,Male,White,No,Yes,No,2.11,1.76,3.21,2.26,91.1,0,Shermer Middle School,Ridgemont High School
+SMS1132,Vasquez,Patricia,Female,Hispanic/Latino,No,Yes,No,2.26,3.07,2.36,3.04,88.1,0,Shermer Middle School,Ridgemont High School
+SMS1133,Gomez,Michael,Female,African American,No,No,No,2.13,2.23,1.86,1.68,85.7,1,Shermer Middle School,Ridgemont High School
+SMS1134,Cruz,Claudia,Female,Hispanic/Latino,No,No,No,1.59,2.63,2.2,2.12,94.8,0,Shermer Middle School,Ridgemont High School
+SMS1135,Lopez,Nathan,Female,Hispanic/Latino,No,No,No,1.67,0.77,2.43,2.41,95.3,1,Shermer Middle School,Ridgemont High School
+SMS1136,Mendoza,Monica,Male,White,No,Yes,Yes,3.29,3.41,1.54,3.17,96.2,0,Shermer Middle School,Ridgemont High School
+SMS1137,Zamora,Pablo,Male,Hispanic/Latino,Yes,Yes,No,2.87,2.29,2.36,1.93,94.9,0,Shermer Middle School,Ridgemont High School
+SMS1138,Santos,Angela,Female,African American,Yes,Yes,No,3.33,1.85,2.49,1.65,93.4,0,Shermer Middle School,Ridgemont High School
+SMS1139,Cruz,Zoe,Female,African American,No,Yes,No,1.05,0.74,0.92,2.28,90.6,1,Shermer Middle School,Ridgemont High School
+SMS1140,Mendez,Anthony,Female,Hispanic/Latino,Yes,Yes,No,2.29,2.0,1.02,2.58,83.6,1,Shermer Middle School,Ridgemont High School
+SMS1141,Vasquez,Lena,Male,Asian,No,No,No,4.0,1.95,2.15,1.85,93.2,1,Shermer Middle School,Ridgemont High School
+SMS1142,Harris,Daniel,Male,Hispanic/Latino,No,Yes,No,1.9,0.96,2.22,4.0,94.7,1,Shermer Middle School,Ridgemont High School
+SMS1143,Gomez,Gloria,Female,White,No,No,No,2.78,1.86,2.2,1.92,88.7,0,Shermer Middle School,Ridgemont High School
+SMS1144,Morales,Samuel,Male,Hispanic/Latino,No,Yes,No,2.21,2.11,1.52,2.18,91.3,1,Shermer Middle School,Ridgemont High School
+SMS1145,Miller,Elena,Female,Hispanic/Latino,No,No,No,2.9,0.73,2.47,2.77,97.3,1,Shermer Middle School,Ridgemont High School
+SMS1146,Jackson,Gabriel,Female,Hispanic/Latino,Yes,Yes,No,2.85,3.02,3.53,2.96,96.9,1,Shermer Middle School,Ridgemont High School
+SMS1147,Harris,Pablo,Male,Asian,No,No,No,3.15,3.38,3.34,1.5,98.7,0,Shermer Middle School,Ridgemont High School
+SMS1148,Morales,Carlos,Female,Hispanic/Latino,Yes,Yes,No,1.23,1.88,2.93,1.79,95.3,0,Shermer Middle School,Ridgemont High School
+SMS1149,Cruz,Santiago,Female,Hispanic/Latino,No,Yes,No,2.59,1.06,2.75,2.72,95.5,0,Shermer Middle School,Ridgemont High School
+SMS1150,Salazar,Angela,Female,Hispanic/Latino,No,Yes,Yes,3.14,2.27,3.13,4.0,100.0,0,Shermer Middle School,Ridgemont High School
+SMS1151,Williams,Sandra,Male,White,No,Yes,No,2.78,1.12,3.06,1.73,99.3,1,Shermer Middle School,Ridgemont High School
+SMS1152,Chen,Adrian,Male,White,No,No,No,2.88,1.52,2.72,4.0,96.6,1,Shermer Middle School,Ridgemont High School
+SMS1153,Flores,Jamal,Male,Hispanic/Latino,No,No,No,1.73,4.0,3.31,3.33,93.8,1,Shermer Middle School,Ridgemont High School
+SMS1154,Ortiz,Michael,Male,Asian,No,Yes,No,2.32,2.74,2.35,2.35,94.0,1,Shermer Middle School,Ridgemont High School
+SMS1155,Gonzalez,Pedro,Female,Hispanic/Latino,Yes,Yes,No,1.85,1.7,3.49,1.32,88.5,1,Shermer Middle School,Ridgemont High School
+SMS1156,Brown,Maya,Female,Hispanic/Latino,No,No,No,2.56,1.3,2.92,1.56,84.1,0,Shermer Middle School,Ridgemont High School
+SMS1157,Martinez,Fatima,Male,White,No,No,No,3.46,2.34,2.85,1.72,87.9,0,Shermer Middle School,Ridgemont High School
+SMS1158,Martinez,Aaliyah,Male,Hispanic/Latino,No,Yes,No,1.92,2.47,3.43,2.58,94.9,1,Shermer Middle School,Ridgemont High School
+SMS1159,Vargas,Jennifer,Male,Hispanic/Latino,Yes,No,No,1.44,2.72,2.78,2.27,100.0,0,Shermer Middle School,Ridgemont High School
+SMS1160,Johnson,Oscar,Female,Hispanic/Latino,No,Yes,No,1.61,1.64,2.42,3.27,83.5,0,Shermer Middle School,Ridgemont High School
+SMS1161,Silva,Monica,Male,White,Yes,Yes,No,3.3,2.11,3.05,2.05,91.6,0,Shermer Middle School,Ridgemont High School
+SMS1162,Sanchez,Sara,Male,White,No,Yes,Yes,2.5,3.36,2.54,3.04,98.0,0,Shermer Middle School,Ridgemont High School
+SMS1163,Fernandez,Rafael,Male,Two or More Races,No,Yes,No,3.15,2.8,1.07,2.11,87.4,1,Shermer Middle School,Ridgemont High School
+SMS1164,Johnson,Gloria,Female,Hispanic/Latino,No,Yes,No,2.39,0.25,2.88,3.74,88.6,1,Shermer Middle School,Ridgemont High School
+SMS1165,Brown,Hector,Female,Hispanic/Latino,No,No,Yes,2.6,3.83,1.59,2.72,100.0,0,Shermer Middle School,Ridgemont High School
+SMS1166,Taylor,Stephanie,Male,Asian,No,No,No,2.93,3.01,1.6,2.57,91.4,0,Shermer Middle School,Ridgemont High School
+SMS1167,Brown,Sandra,Male,Hispanic/Latino,No,Yes,No,0.92,2.6,2.73,1.76,96.1,1,Shermer Middle School,Ridgemont High School
+SMS1168,Brown,Karen,Male,Asian,No,Yes,No,2.11,2.81,0.25,1.41,98.5,1,Shermer Middle School,Ridgemont High School
+SMS1169,Robinson,Angela,Female,Two or More Races,No,No,No,2.58,1.9,2.44,3.07,96.7,1,Shermer Middle School,Ridgemont High School
+SMS1170,Perez,Pedro,Female,Hispanic/Latino,No,No,No,2.24,2.1,2.2,1.71,86.5,0,Shermer Middle School,Ridgemont High School
+SMS1171,Flores,Ryan,Female,White,No,Yes,No,1.58,2.27,1.42,3.31,90.7,1,Shermer Middle School,Ridgemont High School
+SMS1172,Perez,Anthony,Male,White,No,Yes,No,3.33,2.54,3.46,0.18,97.4,0,Shermer Middle School,Ridgemont High School
+SMS1173,Wilson,Carmen,Male,Hispanic/Latino,No,Yes,No,3.06,1.45,2.13,0.99,99.4,1,Shermer Middle School,Ridgemont High School
+SMS1174,Castro,Gabriel,Male,Hispanic/Latino,No,Yes,No,3.12,3.63,1.28,3.26,92.9,1,Shermer Middle School,Ridgemont High School
+SMS1175,Castro,Talia,Male,Pacific Islander,Yes,No,No,2.27,3.28,2.83,2.02,91.0,1,Shermer Middle School,Ridgemont High School
+SMS1176,Mendez,Jamal,Female,White,No,Yes,No,2.61,1.55,1.99,1.61,89.8,1,Shermer Middle School,Ridgemont High School
+SMS1177,Rivera,Diana,Male,Hispanic/Latino,No,Yes,No,1.16,1.51,1.6,3.13,100.0,1,Shermer Middle School,Ridgemont High School
+SMS1178,Robinson,Jasmine,Male,White,No,Yes,No,3.32,2.84,2.51,2.11,92.1,1,Shermer Middle School,Ridgemont High School
+SMS1179,Bautista,Talia,Male,Pacific Islander,No,Yes,No,3.61,3.03,2.32,2.13,96.8,1,Shermer Middle School,Ridgemont High School
+SMS1180,Chen,Victor,Male,Hispanic/Latino,No,Yes,No,2.01,0.82,2.63,0.88,94.3,0,Shermer Middle School,Ridgemont High School

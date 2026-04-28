@@ -1,0 +1,11 @@
+feature,label,controllable,information_value,predictive_strength
+grade8_attendance_pct,8th Grade Attendance %,True,0.2554,Medium
+grade8_science_gpa,8th Grade Science GPA,True,0.2236,Medium
+grade8_overall_gpa,8th Grade Overall GPA,True,0.138,Medium
+race_ethnicity,Race/Ethnicity,False,0.121,Medium
+gender,Gender,False,0.0607,Weak
+grade8_math_gpa,8th Grade Math GPA,True,0.0405,Weak
+economically_disadvantaged,Economically Disadvantaged,False,0.0361,Weak
+english_learner,English Learner Status,False,0.0201,Weak
+grade8_ela_gpa,8th Grade ELA GPA,True,0.0063,Unpredictive
+special_education,Special Education,False,0.002,Unpredictive
